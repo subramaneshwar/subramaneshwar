@@ -1,4 +1,5 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Subramanyam Reddy</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Subramanyam+Reddy+!+👋;I'm+a+Front+End+Developer;)
+<!-- <h1 align="center">Hi 👋, I'm Subramaneshwar</h1> -->
 🔭 I’m currently working on Frontend Development<br>🌱 I’m currently learning ReactJs and JavaScript<br>💬 Ask me about Frontend Development<br>⚡ Fun fact  I am Technology Enthusiast
 
 
